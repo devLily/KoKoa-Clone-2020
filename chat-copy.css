@@ -1,0 +1,5 @@
+<div class="chat__write-column"><i class="far fa-plus-square"></i></div><div class="chat__write-column"></div><div class="chat__write-column"><button><span class="chat__write-icon"><i class="fas fa-paper-plane"></i></span></button></div><div class="chat__write-column"><span class="chat__write-icon"><i class="far fa-smile-wink"></i></span><span class="chat__write-icon"><i class="fas fa-microphone"></i></span></div>
+/*input을 icon전에 두기 위함
+왜냐면 인풋이 아이콘앞에 있으면 인풋에 뭔가 발생했을때 아이콘을 숨길 수 있기 때문
+
+box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
